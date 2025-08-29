@@ -1,8 +1,5 @@
-streamlit
-pandas
-plotly
-numpy
-pint
-SQLAlchemy
-reportlab
-XlsxWriter
+streamlit==1.27.2
+matplotlib==3.7.2
+numpy==1.24.3
+fpdf2==2.7.6
+plotly==5.17.0
